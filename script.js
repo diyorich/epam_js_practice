@@ -1,16 +1,23 @@
-// // String + Number
-// let a = '2';
-// let b = 1;
-// alert(a - b + ' deducted result'); // On deducting a string of number they are deducting
-// alert(a + b + ' concatenated result'); // On summing a string and number they are concatenating
+// String+boolean
 
-// //String + boolean (False string)
-// let ab = true;
-// let bb = '';
-// alert(+ab + +bb);
+//String+number
 
+//Number+boolean
 
-//Number + boolean
-let ac = true;
-let bc = 0;
-alert(ac + bc);
+// String*boolean
+
+//String*number
+
+//Number*boolean
+
+//String/boolean
+
+//String/number
+
+//String/boolean
+
+//Явное преобразование number
+
+//Явное преобразование string
+
+//Явное преобразование boolean
