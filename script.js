@@ -289,23 +289,23 @@
 // }
 
 
-i = 0
-while (i < 100000000){
-    if(is_simple(i) == true){
-        console.log(i)
+// i = 0
+// while (i < 100000000){
+//     if(is_simple(i) == true){
+//         console.log(i)
     
-    }
-    else{
-        continue
-    }
-    i++
-}
+//     }
+//     else{
+//         continue
+//     }
+//     i++
+// }
 
-odd = 1
-while(odd < 100000){
-    console.log(odd)
-    odd += 2
-}
+// odd = 1
+// while(odd < 100000){
+//     console.log(odd)
+//     odd += 2
+// }
 
 
 
