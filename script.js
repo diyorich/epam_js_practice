@@ -308,6 +308,13 @@
 // }
 
 
+let animal = {
+    move = 'some_move'
+}
+
+
+
+
 
 
 
