@@ -1,5 +1,19 @@
-let some_string = 'ahb acb aeb aeeb adcb axeb';
+let str = "ahb acb aeb aeeb adcb axeb";
 
-let result = some_string.match(/a/g);
+let reg1 = /\ba.\S\b/g;
 
-alert(result.index)
+let result = str.match(reg1);
+
+alert(result);
+
+let reg2 = /\b...\b/g;
+
+let result_two = str.match(reg2);
+
+alert(result_two);
+
+let reg3 = /\b.\Sb\b/g;
+
+let result_three = str.match(reg3);
+
+alert(result_three);
