@@ -18,8 +18,3 @@ let reg3 = /\b.\Sb\b/g;
 let result_three = str.match(reg3);
 
 alert(result_three);
-
-
-
-alert(result.index)
-
