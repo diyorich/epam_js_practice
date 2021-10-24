@@ -32,5 +32,8 @@ let calcres = calculating.match(calc_reg);
 alert(calcres);
 
 //3
-
 let now = new Date();
+
+console.log(now.getDay());
+console.log(now.getMonth());
+console.log(now.getFullYear());
